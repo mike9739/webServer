@@ -1,0 +1,24 @@
+{
+    "name": "webserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mike9739/webServer.git"
+    },
+    "author": "miguel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mike9739/webServer/issues"
+    },
+    "homepage": "https://github.com/mike9739/webServer#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "hbs": "^4.0.1"
+    }
+}
